@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Stay Informed</title>
+    <link>https://www.bridgewater.com/stayinformed</link>
+    <description>Stay Informed</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jan 2021 16:09:18 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/stayinformed.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Spotlight on Technology Careers</title>
+    <link>https://www.bridgewater.com/working-at-bridgewater/technology</link>
+    <description>Spotlight on Technology Careers</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jan 2021 16:04:29 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/working-at-bridgewater/technology.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

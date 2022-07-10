@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Home — Bridgewater Associates</title>
+    <link>https://www.bridgewater.com/</link>
+    <description>Bridgewater Associates is a premier asset management firm, focused on delivering unique insight and partnership for the most sophisticated global institutional investors.</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jun 2022 14:25:27 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/index.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

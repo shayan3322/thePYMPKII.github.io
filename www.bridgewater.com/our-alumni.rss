@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Our Alumni</title>
+    <link>https://www.bridgewater.com/our-alumni</link>
+    <description>Our Alumni</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Jun 2022 19:38:31 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/our-alumni.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Job Openings</title>
+    <link>https://www.bridgewater.com/working-at-bridgewater/job-openings</link>
+    <description>Job Openings</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jan 2021 16:12:19 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/working-at-bridgewater/job-openings.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Research &amp; Insights</title>
+    <link>https://www.bridgewater.com/research-and-insights</link>
+    <description>Research &amp; Insights</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Jul 2022 15:21:32 GMT</lastBuildDate>
+    <atom:link href="https://www.bridgewater.com/research-and-insights.rss" type="application/rss+xml" rel="self" />
+    <item>
+      <title>Problem Solving in a Challenging Environment</title>
+      <link>https://www.bridgewater.com/in-the-news/problem-solving-in-a-confronting-environment</link>
+      <description>Partnering with clients to solve their biggest challenges has always been at the heart of everything we do. In an interview with Top1000Funds, Co-CIO Bob Prince, President and Chief Commercial Officer Kyle Delaney, and Head of Americas Brian Lawlor describe today’s challenging environment, the greater need for partnership, and Bridgewater’s efforts in helping clients achieve their strategic objectives.</description>
+      <pubDate>Thu, 07 Jul 2022 15:21:32 GMT</pubDate>
+      <guid>https://www.bridgewater.com/in-the-news/problem-solving-in-a-confronting-environment</guid>
+    </item>
+    <item>
+      <title>The Liquidity Hole Is Expanding</title>
+      <link>https://www.bridgewater.com/research-and-insights/the-liquidity-hole-is-expanding</link>
+      <description>Co-CIO Greg Jensen and members of Bridgewater’s research team examine the downward pressure on asset pricing, driven by the rapidly expanding liquidity hole and Fed tightening.</description>
+      <pubDate>Wed, 29 Jun 2022 14:21:31 GMT</pubDate>
+      <guid>https://www.bridgewater.com/research-and-insights/the-liquidity-hole-is-expanding</guid>
+    </item>
+    <item>
+      <title>Building a Beta Portfolio in an Environment That Looks Difficult for Assets</title>
+      <link>https://www.bridgewater.com/research-and-insights/building-a-beta-portfolio-in-an-environment-that-looks-difficult-for-assets</link>
+      <description>Assets are facing significant headwinds from inflation and Fed tightening, but not holding assets is not an option. This raises the question — how should investors think about holding beta in the current environment?</description>
+      <pubDate>Wed, 08 Jun 2022 13:02:24 GMT</pubDate>
+      <guid>https://www.bridgewater.com/research-and-insights/building-a-beta-portfolio-in-an-environment-that-looks-difficult-for-assets</guid>
+    </item>
+    <item>
+      <title>Assessing the Demand Destruction That Will Be Needed to Balance the Oil Market</title>
+      <link>https://www.bridgewater.com/research-and-insights/assessing-the-demand-destruction-that-will-be-needed-to-balance-the-oil-market</link>
+      <description>The disruption of Russian energy exports is a shock to the oil market, at a time when demand was already outstripping supply and low inventories. With little room for other producers to ramp up in the short term, demand destruction through higher prices is needed.</description>
+      <pubDate>Wed, 11 May 2022 15:41:29 GMT</pubDate>
+      <guid>https://www.bridgewater.com/research-and-insights/assessing-the-demand-destruction-that-will-be-needed-to-balance-the-oil-market</guid>
+    </item>
+  </channel>
+</rss>
